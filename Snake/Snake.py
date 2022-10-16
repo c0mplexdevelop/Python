@@ -6,7 +6,7 @@
 # 3. create snake: only Head
 #  3a. when snake eat food, it extends snake
 #  3b. if snake hits wall or itself, game over.
-#  3c. Place both head and food in a fixed position at the start.
+#  3c. Place both head and food in a fixed position at the start
 # 4. Move snake in a constant time, and per block only
 # 5. If snake eats
 
